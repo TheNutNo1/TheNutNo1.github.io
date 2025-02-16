@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>‘test.md’，打开编辑</title>
-      <link href="/2025/02/12/%E2%80%98test-md%E2%80%99%EF%BC%8C%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91/"/>
-      <url>/2025/02/12/%E2%80%98test-md%E2%80%99%EF%BC%8C%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
+      <title>在一切开始之前</title>
       <link href="/2025/02/12/hello-world/"/>
       <url>/2025/02/12/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>2022年深秋凌晨三点，在宿舍带着些许酸臭的气味里，我在南+茶楼捕获到「独立博客」这个关键词。二十岁的瞳孔在铁板精灵2019版那狗操的45色域瞎眼屏中收缩——那些用Apache和WordPress搭建的数字堡垒，比任何一个没有我名字的节假日周末值班安排表都让人血脉偾张。</p><p>这颗种子在学业和工作的夹击下休眠三年。直到那个某次值班后拖着疲惫身躯踏入宿舍却无人倾诉的空虚，想打开微信找伴侣聊天却看到房贷即将逾期的深夜，那些被007肢解的行文洁癖，那些困在会议报告里的表达欲，在王八操的创城方案中重新发酵成十六进制的气泡。</p><p>2025年夜，显示屏的冷光切开雨幕。当localhost:4000通过自检，二十五岁的我用deploy解封了二十二岁那年的sudo命令。机箱嗡鸣的震动频率，完美共振着三年前那台惠普键盘的颤抖。</p><p>此刻终端光标在墨绿背景上裂变，所有啃过的技术文档、调通的第一条TCP握手、撕过的java内存战争，都熔铸成这把叩开BIT世界的万能钥匙。</p><h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1>]]></content>
       
       
       
